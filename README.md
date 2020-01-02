@@ -1,2 +1,2 @@
-# hubitat-isydevices
-Hubitat device drivers for isy994i controlled devices.  Currently uses rest interface.
+# hubitat-isy
+Hubitat device driver for isy994i.
